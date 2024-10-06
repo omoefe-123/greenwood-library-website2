@@ -38,3 +38,8 @@ git commit -m "commit message"
 4. I then pushed the add-book-reviews to github
 
 ![morgar-work](<images/morgan s work.jpg>)
+
+## Jamie`s Work
+1. i created Jamie`s branch and named it update-events
+2. I created process-documentation.txt file and added a content to it
+3. Then i stage,commit and push to github

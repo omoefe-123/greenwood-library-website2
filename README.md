@@ -28,3 +28,6 @@ git commit -m "commit message"
 3. I now staged, commit and then pushed to github account
 
 ![documenting-work](images/Documenting.jpg)
+
+![alt text](images/website.jpg)
+

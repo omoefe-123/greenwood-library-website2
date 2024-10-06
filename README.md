@@ -41,5 +41,7 @@ git commit -m "commit message"
 
 ## Jamie`s Work
 1. i created Jamie`s branch and named it update-events
-2. I created process-documentation.txt file and added a content to it
+2. I created process_documentation.txt file and added a content to it
 3. Then i stage,commit and push to github
+
+![jamie-work](images/jamie-work.jpg)

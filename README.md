@@ -26,3 +26,5 @@ git commit -m "commit message"
 2. I added content to the each files
 
 3. I now staged, commit and then pushed to github account
+
+![documenting-work](images/Documenting.jpg)

@@ -31,7 +31,7 @@ git commit -m "commit message"
 
 ![alt text](images/website.jpg)
 
-### Morgan`s Work
+## Morgan`s Work
 1. I created a branch for Morgan named add-book-eviews
 2. I also added a file called book_reviews.html and add content to it
 3. Then i staged, commit and push with a message "Add book reviews section"

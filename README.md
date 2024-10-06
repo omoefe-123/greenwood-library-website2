@@ -16,9 +16,11 @@ git commit -m "commit message"
 
 ## Tasks
 1. I created the following files as required
-* about_us.html
-* contact_us.html
-* events.html
-* home.html 
+   * about_us.html
+   * contact_us.html
+   * events.html
+   * home.html 
 
 ![files](images/files.jpg)
+
+2. 
